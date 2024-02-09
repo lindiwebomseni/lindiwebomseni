@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 50px;
+    background-color: pink;
+}
+
+#valentineImage {
+    position: absolute;
+    transition: transform 0.5s ease-in-out;
+    left: 40%;
+    top: 30%;
+}
